@@ -14,7 +14,7 @@ Cette procédure d'écrit comment installer [KLIPPER](https://www.klipper3d.org/
 3. **Carte MicroSD** pour mettre à jour le firmware.
 
 ### **Étape 1 : Télécharger le firmware**
-1. Téléchargez le fichier **`Robin_nano.bin`** ainsi que le fichier de configuration **`printer.cfg`** dans le dossier **BL TOUCH** si votre imprimante 3D dispose du BL TOUCH (3d Touch) ou sinon **NO BL TOUCH**.
+1. Téléchargez le fichier **`Robin_nano.bin`** ainsi que le fichier de configuration **`printer.cfg`** dans le dossier **[BL TOUCH](https://github.com/adnroboticsfr/duplicator-12-230-evo-mega-kit-klipper-config/tree/main/BL%20TOUCH)** si votre imprimante 3D dispose du BL TOUCH (3d Touch) ou sinon **[NO BL TOUCH](https://github.com/adnroboticsfr/duplicator-12-230-evo-mega-kit-klipper-config/tree/main/NO%20BL%20TOUCH)**.
 
    <img src="img/D12-230_EVO_MEGA-KIT_2.png" alt="NO BL TOUCH or BL TOUCH" width="300">
 
