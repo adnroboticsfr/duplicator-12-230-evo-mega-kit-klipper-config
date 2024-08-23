@@ -1,9 +1,7 @@
-# Duplicator 12 230 EVO MEGA-KIT klipper config
-[![Français](https://img.shields.io/badge/langue-français-blue)](./README.fr.md)
-
-**Printer.cfg** et **firmware** pour d12-230 evo mega-kit avec une carte 0327001-V3.0 et drivers TMC2225.
-
 # **Guide d'installation du Klipper pour le D12-230 Evo Mega-Kit**
+[![English](https://img.shields.io/badge/language-english-blue)](./README.md)
+
+**Printer.cfg** et **firmware** pour D12-230 EVO MEGA-KIT avec une carte **0327001-V3.0** et drivers **TMC2225**.
 
 ![D12-230 EVO MEGA KIT](img/D12-230_EVO_MEGA-KIT_1.png)
 
@@ -11,7 +9,7 @@
 Cette procédure d'écrit comment installer Klipper sur votre imprimante 3D. Suivez chaque étape avec attention, car une erreur pourrait endommager votre matériel. Le processus a été testé, mais vous en êtes responsable. Assurez-vous de bien comprendre les instructions avant de commencer.
 
 ### **Matériel requis :**
-1. **Un Pad** préconfiguré sous KLIPPER (connecté à votre réseau Wi-Fi ou via un câble Ethernet).
+1. **Un Pad** préconfiguré sous [KLIPPER](https://www.klipper3d.org/fr/) (connecté à votre réseau Wi-Fi ou via un câble Ethernet).
 2. **Câble USB Type A mâle vers Type B mâle** (privilégiez un câble blindé pour minimiser les interférences).
 3. **Carte MicroSD** pour mettre à jour le firmware.
 
@@ -40,15 +38,15 @@ Cette procédure d'écrit comment installer Klipper sur votre imprimante 3D. Sui
 
     <img src="img/D12-230_EVO_MEGA-KIT_4.png" alt="Mainsail - Machine Tab" width="900">
 
-2. Remplacez le fichier `printer.cfg` existant par celui que vous avez téléchargé depuis GitHub.
+2. Remplacez le fichier **`printer.cfg`** existant par celui que vous avez téléchargé depuis GitHub.
 3. Cliquez sur **Save** puis redémarrez l'imprimante pour appliquer les modifications.
 4. Le printer.cfg est optimisé pour une utilisation générale, mais n'oubliez pas de l'ajuster pour l'adapter à votre Pad ou besoin spécifique.
 
 
 ## Étape 5 : Configuration du slicer (OrcaSlicer)
 1. Téléchargez OrcaSlicer depuis le lien suivant : [Télécharger OrcaSlicer](https://github.com/SoftFever/OrcaSlicer/releases).
-2. Ajoutez le profil de l’imprimante Wanhao D12 300 aux profils d'imprimantes prédéfinis dans OrcaSlicer.
-3. Ensuite, importez le profil D12-230 disponible au lien suivant : [Profil D12-230](https://github.com/Yumi-Lab/yumi-wiki/raw/main/Profile_Slicer/Orcaslicer/WanhaoD12Orcaslicer.zip). Il existe deux versions : avec 3D Touch et sans.
+2. Ajoutez le profil de l’imprimante **Wanhao D12 300** aux profils d'imprimantes prédéfinis dans OrcaSlicer.
+3. Ensuite, importez le profil D12-230 disponible au lien suivant : [Profil D12-230](https://github.com/Yumi-Lab/yumi-wiki/raw/main/Profile_Slicer/Orcaslicer/WanhaoD12Orcaslicer.zip). Il existe deux versions : **avec 3D Touch et sans**.
 
     <img src="img/D12-230_EVO_MEGA-KIT_4.png" alt="Orca Slicer" width="900">
 
