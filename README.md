@@ -1,6 +1,6 @@
 # **Klipper Installation Guide for the D12-230 Evo Mega-Kit**
 
-[![English](https://img.shields.io/badge/language-english-blue)](./README.md)
+[![Français](https://img.shields.io/badge/langue-français-blue)](./README.fr.md)
 
 **Printer.cfg** and **firmware** for **D12-230 EVO MEGA-KIT** with a **0327001-V3.0** board and **TMC2225** drivers.
 
