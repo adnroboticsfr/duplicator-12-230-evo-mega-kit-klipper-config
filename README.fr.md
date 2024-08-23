@@ -16,9 +16,9 @@ Cette procédure d'écrit comment installer Klipper sur votre imprimante 3D. Sui
 3. **Carte MicroSD** pour mettre à jour le firmware.
 
 ### **Étape 1 : Télécharger le firmware**
-1. Téléchargez le fichier `Robin_nano.bin` ainsi que le fichier de configuration `printer.cfg` dans le dossier **BL TOUCH** si votre imprimante 3D dispose du BL TOUCH (3d Touch) ou sinon NO BL TOUCH.
+1. Téléchargez le fichier **`Robin_nano.bin`** ainsi que le fichier de configuration **`printer.cfg`** dans le dossier **BL TOUCH** si votre imprimante 3D dispose du BL TOUCH (3d Touch) ou sinon NO BL TOUCH.
 
-   <img src="img/D12-230_EVO_MEGA-KIT_2.png" alt="NO BL TOUCH or BL TOUCH" width="600">
+   <img src="img/D12-230_EVO_MEGA-KIT_2.png" alt="NO BL TOUCH or BL TOUCH" width="300">
 
 
 ### **Étape 2 : Mettre à jour le firmware de l’imprimante**
