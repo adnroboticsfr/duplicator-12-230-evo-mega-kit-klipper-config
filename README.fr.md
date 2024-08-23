@@ -1,15 +1,15 @@
 # **Guide d'installation du Klipper pour le D12-230 Evo Mega-Kit**
 [![English](https://img.shields.io/badge/language-english-blue)](./README.md)
 
-**Printer.cfg** et **firmware** pour D12-230 EVO MEGA-KIT avec une carte **0327001-V3.0** et drivers **TMC2225**.
+**Printer.cfg** et **firmware** pour **D12-230 EVO MEGA-KIT** avec une carte **0327001-V3.0** et drivers **TMC2225**.
 
 ![D12-230 EVO MEGA KIT](img/D12-230_EVO_MEGA-KIT_1.png)
 
 ### **Avant de commencer : Important à savoir**
-Cette procédure d'écrit comment installer Klipper sur votre imprimante 3D. Suivez chaque étape avec attention, car une erreur pourrait endommager votre matériel. Le processus a été testé, mais vous en êtes responsable. Assurez-vous de bien comprendre les instructions avant de commencer.
+Cette procédure d'écrit comment installer [KLIPPER](https://www.klipper3d.org/fr/) sur votre imprimante 3D. Suivez chaque étape avec attention, car une erreur pourrait endommager votre matériel. Le processus a été testé, mais vous en êtes responsable. Assurez-vous de bien comprendre les instructions avant de commencer.
 
 ### **Matériel requis :**
-1. **Un Pad** préconfiguré sous [KLIPPER](https://www.klipper3d.org/fr/) (connecté à votre réseau Wi-Fi ou via un câble Ethernet).
+1. **Un Pad** préconfiguré sous KLIPPER (connecté à votre réseau Wi-Fi ou via un câble Ethernet).
 2. **Câble USB Type A mâle vers Type B mâle** (privilégiez un câble blindé pour minimiser les interférences).
 3. **Carte MicroSD** pour mettre à jour le firmware.
 
